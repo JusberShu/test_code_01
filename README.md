@@ -1,0 +1,1 @@
+This is a test project, just to understand the basics about git and VScode.
